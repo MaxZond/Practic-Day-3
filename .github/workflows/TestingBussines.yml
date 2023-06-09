@@ -1,0 +1,28 @@
+name: Тестирование API
+
+on:
+  push:
+    branches:
+      - main  # Имя вашей основной ветки
+  pull_request:
+    branches:
+      - main  # Имя вашей основной ветки
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout репозитория
+      uses: actions/checkout@v2
+
+    - name: Установка зависимостей
+      run: |
+        cd ваш_тестовый_проект
+        npm install  # Или любая другая команда установки зависимостей вашего проекта
+
+    - name: Запуск тестов
+      run: |
+        cd github.com/MaxZond/Practic-Day-3/blob/main/BusinessLogicTest/UserServiceTest.cs
+        npm test  # Или любая другая команда запуска тестов вашего проекта
