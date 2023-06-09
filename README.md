@@ -1,5 +1,5 @@
 # Practic Perepelkin 3 <img src="https://media.tenor.com/1F5216kJIJQAAAAd/sad-nigga.gif" height="50"/></h1>   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Continuation+of+work+with+api)](https://i.gifer.com/BulL.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Continuation+of+work+with+api)](https://i.gifer.com/3odR.gif)
 ###### Day 3 ######
 -------------------------
 ## Внедрение автоматической генерации ##
@@ -28,9 +28,9 @@
   3: Создание класса для тестирования работы класса UserService.
     <br></br>
 ![Снимок экрана 2023-06-02 111215](https://github.com/MaxZond/Practic-Day-3/assets/121193436/c7d70bf7-e63b-42d1-8846-fa0ee182bd05)
- ## Создаем тесты для проверки методов BusinessLogic ##
+ ### Создаем тесты для проверки методов BusinessLogic ###
 ![image](https://github.com/MaxZond/Practic-Day-3/assets/121193436/696e8448-8db0-44d8-b5da-c408ad2e0758)
-## Создаем YML код в gihub для тестирования в самом приложении <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Red-animated-arrow-down.gif" height="50"/></h1> ##
-
+## Создаем YML код для тестирования в самом github <img src="https://i.gifer.com/origin/60/60909a70e6b26edd8bc34c2bc32f65c5_w200.gif" height="100"/></h1> ##
+<img src="https://media3.giphy.com/media/ihSdfldg4cO4CZsRvC/source.gif" weight="50"/></h1>
 
  
