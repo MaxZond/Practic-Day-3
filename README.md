@@ -28,5 +28,9 @@
   3: Создание класса для тестирования работы класса UserService.
     <br></br>
 ![Снимок экрана 2023-06-02 111215](https://github.com/MaxZond/Practic-Day-3/assets/121193436/c7d70bf7-e63b-42d1-8846-fa0ee182bd05)
+ ## Создаем тесты для проверки методов BusinessLogic ##
+![image](https://github.com/MaxZond/Practic-Day-3/assets/121193436/696e8448-8db0-44d8-b5da-c408ad2e0758)
+## Создаем YML код в gihub для тестирования в самом приложении <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Red-animated-arrow-down.gif" height="50"/></h1> ##
+
 
  
